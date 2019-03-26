@@ -19,7 +19,9 @@ https://github.com/FWGS/xash3d
 # Compile instructions
 
 cd engine
+
 chmod +x build.sh
+
 ./build.sh
 
 # License
